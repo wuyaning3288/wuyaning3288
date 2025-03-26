@@ -30,7 +30,7 @@
 > Applications of MPI and spark.
 > 
 ### ☀️ [Competitions and Theses](https://github.com/wuyaning3288/Competitions_and_Theses)
-> Applications of MPI and spark.
+> Previous codes for Kaggle and Tianchi competitions
 ---
 
 ## ✨ Fun Fact
